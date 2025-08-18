@@ -32,11 +32,11 @@
 
 [https://api.ip.sb/geoip](#address-1.12)
 
-[https://api.qjqq.cn/api/Local](#address-1.13)
+[https://api.qjqq.cn/api/Local](#address-1.13) **(已失效)**
 
 [http://ip-api.com/json/?lang=zh-CN](#address-1.14)
 
-[https://searchplugin.csdn.net/api/v1/ip/get](#address-1.15)
+[https://searchplugin.csdn.net/api/v1/ip/get](#address-1.15)  **(已失效)**
 
 [https://api.db-ip.com/v2/free/self](#address-1.16)
 
@@ -46,7 +46,7 @@
 
 2.只可查询本机(访客)IP信息
 
-[https://ip.useragentinfo.com/json](#address-2.1) 
+[https://ip.useragentinfo.com/json](#address-2.1)  **(已失效)**
 
 [http://httpbin.org/ip](#address-2.2) 
 
@@ -100,11 +100,11 @@
 
 [https://ipinfo.io/widget/demo/121.8.215.106](#address-3.3) 
 
-[https://ipapi.com/ip_api.php?ip=121.8.215.106](#address-3.4) 
+[https://ipapi.com/ip_api.php?ip=121.8.215.106](#address-3.4)  **(已失效)**
 
 [https://db-ip.com/demo/home.php?s=121.8.215.106](#address-3.5) 
 
-[https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=121.8.215.106](#address-3.6) 
+[https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=121.8.215.106](#address-3.6)  **(已失效)**
 
 4.[根据地区反查IP信息](#address-4.1) 
 
@@ -710,7 +710,7 @@ https://api.ip.sb/geoip/121.8.215.106
 
 &emsp;
 
-**地址13**：https://api.qjqq.cn/api/Local <a name="address-1.13"></a>
+**地址13**：https://api.qjqq.cn/api/Local <a name="address-1.13"></a> **(已失效)**
 
 请求类型：GET
 
@@ -801,7 +801,7 @@ http://ip-api.com/json/121.8.215.106?lang=zh-CN
 
 &emsp;
 
-**地址15**：https://searchplugin.csdn.net/api/v1/ip/get <a name="address-1.15"></a>
+**地址15**：https://searchplugin.csdn.net/api/v1/ip/get <a name="address-1.15"></a>  **(已失效)**
 
 请求类型：GET
 
@@ -981,7 +981,7 @@ https://ipwhois.app/json/121.8.215.106?format=json
 
 ### 2.仅查询本机IP信息
 
-**地址①**：https://ip.useragentinfo.com/json
+**地址①**：https://ip.useragentinfo.com/json  **(已失效)**
 
 请求类型：GET
 
@@ -1936,7 +1936,7 @@ https://ipinfo.io/widget/demo/121.8.215.106
 
 &emsp;
 
-**地址④**：https://ipapi.com/ip_api.php?ip=121.8.215.106 <a name="address-3.4"></a>
+**地址④**：https://ipapi.com/ip_api.php?ip=121.8.215.106 <a name="address-3.4"></a> **(已失效)**
 
 请求类型：GET
 
@@ -2081,7 +2081,7 @@ https://db-ip.com/demo/home.php?s=121.8.215.106
 
 &emsp;
 
-**地址⑥**：https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=21.8.215.106 <a name="address-3.6"></a>
+**地址⑥**：https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=21.8.215.106 <a name="address-3.6"></a>  **(已失效)**
 
 请求类型：GET
 
