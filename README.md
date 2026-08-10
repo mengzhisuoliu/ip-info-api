@@ -118,6 +118,8 @@
 
 [https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=121.8.215.106](#address-3.6)  **(已失效)**
 
+[https://ip9.com.cn/get?ip=121.8.215.106](#address-3.7)
+
 4.[根据地区反查IP信息](#address-4.1) 
 
 5.[只需要获取IP](#address-5.1) 
@@ -2493,6 +2495,48 @@ https://mesh.if.iqiyi.com/aid/ip/info?version=1.1.1&ip=121.8.215.106
 ```
 
 当ip参数值为空时，查询的是请求者的地址信息。
+
+&emsp;
+
+**地址⑥**：https://ip9.com.cn/get?ip=121.8.215.106 <a name="address-3.7"></a>
+
+请求类型：GET
+
+请求参数：ip=查询的ip地址
+
+CORS跨域支持：否
+
+请求示例：
+
+```
+https://ip9.com.cn/get?ip=121.8.215.106
+```
+
+示例结果：
+
+```
+{
+  "ret": 200,
+  "data": {
+    "ip": "121.8.215.106",
+    "country": "中国",
+    "country_code": "cn",
+    "prov": "广东",
+    "city": "广州",
+    "city_code": "guangzhou",
+    "city_short_code": "gz",
+    "area": "增城",
+    "post_code": "511300",
+    "area_code": "020",
+    "isp": "中国电信",
+    "lng": "113.83",
+    "lat": "23.29",
+    "long_ip": 2030622570,
+    "big_area": "华南"
+  },
+  "qt": 0.001
+}
+```
 
 &emsp;
 
